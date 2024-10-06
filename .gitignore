@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/U6
+/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5
+/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9
